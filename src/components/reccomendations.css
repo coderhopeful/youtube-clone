@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+    color: white;
+
+}
+
+
+.card{
+    border:1px solid black;
+    padding:2px;
+    margin-top:30px;
+    border-radius: 5px;
+    height:95%;
+
+  
+}
+.video{
+  position:absolute;
+  top:0;
+  left:0;
+
+   
+}
+
+.vid-wrapper{
+position:relative;
+padding-top:56.25%;
+}
+
+.avatar{
+    border-radius: 50%;
+    float: left;
+}
+
+.channel-name{
+    margin-left:10px;
+    
+
+}
